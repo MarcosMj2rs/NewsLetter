@@ -590,15 +590,6 @@ if (retryCount > 5)
 
 ---
 
-## 📚 Documentação Complementar
-
-- [QUICK_START.md](docs/QUICK_START.md) - Início rápido
-- [IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md) - Guia detalhado
-- [API_REFERENCE.md](docs/API_REFERENCE.md) - Referência de APIs
-- [ARCHITECTURE.md](docs/ARCHITECTURE.md) - Detalhes arquiteturais
-
----
-
 ## 📝 Changelog
 
 ### [1.0.0] - 2024-01-XX
