@@ -9,7 +9,7 @@
 
 **Português** | [English](README_EN.md)
 
-Sistema completo de geração automática de newsletters utilizando inteligência artificial (Google Gemini) para criar conteúdo personalizado e enviar para assinantes.
+Sistema completo de geração automática de newsletters utilizando inteligência artificial (Google Gemini) para criar conteúdo personalizado e enviar para assinantes. Fonte: portal Balta.io (material de estudos) Imersão IA
 
 ## 📋 Índice
 
