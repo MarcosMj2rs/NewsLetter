@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>361cf8f6-de12-4999-ac94-af99e3c457b4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NewsLetter.Ai\NewsLetter.Ai.csproj" />
+    <ProjectReference Include="..\NewsLetter.Core\NewsLetter.Core.csproj" />
+    <ProjectReference Include="..\NewsLetter.Infra\NewsLetter.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
